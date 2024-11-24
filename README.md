@@ -1,3 +1,5 @@
-# Gestao-e-Projeto-de-Software
+# Software Project Management Project
 
-Repositório para salvar os documentos da disciplina do mestrado
+This was a project for the Master course Software Project Management at IPB that included the development of a project titled Asset Management system for IPB.
+
+
